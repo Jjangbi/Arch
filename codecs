@@ -1,0 +1,1 @@
+sudo pacman -Sy lame libdca libdv libdvdcss libdvdread libdvdnav libmad libmpeg2 libtheora libvorbis libxv faad2 flac gst-plugins
